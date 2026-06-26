@@ -1,0 +1,13 @@
+
+> la-casetta-site@0.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1505 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.77 kB │ gzip:  0.43 kB
+dist/assets/index-h7GrI-6j.css   24.60 kB │ gzip:  4.69 kB
+dist/assets/index-BwdqGm4U.js   173.30 kB │ gzip: 53.33 kB
+✓ built in 1.91s
